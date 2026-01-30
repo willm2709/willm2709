@@ -1,4 +1,4 @@
-<h1 align="center">Olá ! Eu sou o William Moreira !</h1>
+<h1 align="center">Olá! Eu sou o William Moreira 👋</h1>
 
 ###
 
@@ -32,5 +32,5 @@
 ###
 
 <div align="center">
-  <img src="https://github.com/willm2709/willm2709/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/willm2709/willm2709/blob/output/snake.svg" alt="Snake animation" />
 </div>
