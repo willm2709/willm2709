@@ -42,6 +42,16 @@ Sistema de gerenciamento de chamados desenvolvido em C#, aplicando princípios d
 
 ---
 
+### 🗂️ Task Manager API (Python | FastAPI)
+
+API RESTful para gerenciamento de tarefas desenvolvida com FastAPI e SQLAlchemy, aplicando arquitetura em camadas, validação de dados e modelagem com ORM.
+
+🔹 Projeto focado na construção de APIs REST  
+🔹 Separação em camadas (models, schemas, crud, routers)  
+🔹 Boas práticas de organização backend  
+
+🔗 [Ver projeto](https://github.com/willm2709/task-manager-api)
+
 ###
 
 <div align="center">
