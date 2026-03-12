@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o William Moreira
 
-💻 Desenvolvedor Back-end em formação  
+💻 Desenvolvedor de Software em formação  
 🎯 Foco em APIs REST, Python e C#  
 📚 Estudando constantemente boas práticas, arquitetura e banco de dados  
 
@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor com foco em Back-end, apaixonado por tecnologia e resolução de problemas.
+Sou desenvolvedor de software, apaixonado por tecnologia e resolução de problemas.
 
 Tenho experiência prática com desenvolvimento de APIs REST, integração com banco de dados SQL, aplicação de princípios de orientação a objetos e versionamento de código com Git.
 
